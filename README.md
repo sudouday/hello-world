@@ -1,2 +1,2 @@
-# hello-world
-kali commands
+# print("hello hackers!")
+
