@@ -1,0 +1,9 @@
+For Finding open redirect :-
+site: gmcs.edu.pk inurl:redir | inurl:url | inurl:redirect | inurl:return | inurl:src=http | inurl:r=http
+
+Find Bug bounty program by swag:-  inurl : / responsible-disclosure/ swag
+
+By reward :- inurl /responsible-disclosure/ reward
+
+
+
